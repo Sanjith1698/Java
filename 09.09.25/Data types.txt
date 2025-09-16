@@ -1,0 +1,7 @@
+Data types
+
+For Numbers
+byte - 8bit
+short - 16bit
+int - 32bit
+long - 64bit
