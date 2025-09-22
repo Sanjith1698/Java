@@ -2,9 +2,9 @@ class Student{
 	int id;
 	String name;
 	
-	void setStudent(){
-		id = 100;
-		name = "Seelan";
+	void setStudent(int id,String name){
+		this.id = id;
+		this.name = name;
 	}
 	
 	void getStudent(){
