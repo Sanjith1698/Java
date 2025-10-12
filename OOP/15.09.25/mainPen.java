@@ -5,6 +5,8 @@ class mainPen{
 		
 		P = new Pen();
 		
+		
+		
 		P.brand = "Atlas";
 		P.color = "Blue";
 		P.madeIn = "Srilanka";
@@ -18,5 +20,6 @@ class mainPen{
 		System.out.println(P.madeIn);
 		System.out.println(P.height);
 		System.out.println(P.weight);
+		
 	}
 }
